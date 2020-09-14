@@ -1,4 +1,4 @@
-# Miami landing page
+# KatVR landing page
 - Implement [the landing page](https://www.figma.com/file/hhtGde1r4hMr5wghrKm6vl/KatVR?node-id=0%3A1)
 - [DEMO LINK](https://Lancaelot.github.io/layout_KatVR/)
 ## Instructions
